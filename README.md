@@ -1,3 +1,9 @@
+> [!WARNING]
+> This project is now **archived**.
+> Unfortunately, necessary scraping of the Hiscores can no longer be performed because of Cloudflare anti-scraping protections.
+>
+> A rewrite would be necessary to bypass these restrictions, and given that this script stopped working _9 months ago_ and nobody noticed, there appears to be no demand for a fix. I am leaving this repository up as an archive in case anyone wishes to fork it in the future. A note will also be added to the related Google Sheet.
+
 # UIM 99 Stats
 The source code for the [UIM 99s](https://docs.google.com/spreadsheets/d/1HkK2r4SHCkrz-Kjy8vhfeH1isNnX4GWagwLgFN84W8A/edit?usp=sharing) sheet.
 
